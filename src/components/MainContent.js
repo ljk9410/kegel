@@ -10,6 +10,9 @@ const MainContent = () => {
           type="video/mp4"
         />
       </video>
+      <a className="madeBy" href={"https://planfit.sng.link/Al6s7/b4fm/wf79"}>
+        made by
+      </a>
     </div>
   );
 };
