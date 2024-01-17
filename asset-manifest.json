@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kegel/static/css/main.344e30b4.css",
+    "main.css": "/kegel/static/css/main.1553335d.css",
     "main.js": "/kegel/static/js/main.d1f7608c.js",
     "static/js/787.a3c9e72b.chunk.js": "/kegel/static/js/787.a3c9e72b.chunk.js",
     "index.html": "/kegel/index.html",
-    "main.344e30b4.css.map": "/kegel/static/css/main.344e30b4.css.map",
+    "main.1553335d.css.map": "/kegel/static/css/main.1553335d.css.map",
     "main.d1f7608c.js.map": "/kegel/static/js/main.d1f7608c.js.map",
     "787.a3c9e72b.chunk.js.map": "/kegel/static/js/787.a3c9e72b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.344e30b4.css",
+    "static/css/main.1553335d.css",
     "static/js/main.d1f7608c.js"
   ]
 }
