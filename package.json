@@ -38,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ljk9410.github.io/kegel/"
+  "homepage": "https://ljk9410.github.io/kegel/",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }

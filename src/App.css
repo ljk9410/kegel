@@ -3,9 +3,4 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
-  .video {
-    width: 140vh;
-    background-color: tomato;
-  }
 }
