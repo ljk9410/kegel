@@ -3,10 +3,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: tomato;
 
   span {
     font-size: 72px;
-    color: white;
   }
 }
