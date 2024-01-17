@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/kegel/static/css/main.aa5658b1.css",
-    "main.js": "/kegel/static/js/main.192015c2.js",
+    "main.css": "/kegel/static/css/main.66a4d6fd.css",
+    "main.js": "/kegel/static/js/main.3dc63a1b.js",
     "static/js/787.a3c9e72b.chunk.js": "/kegel/static/js/787.a3c9e72b.chunk.js",
+    "static/media/kegel_sticky.mp4": "/kegel/static/media/kegel_sticky.56b0a29e74f7fb577949.mp4",
     "index.html": "/kegel/index.html",
-    "main.aa5658b1.css.map": "/kegel/static/css/main.aa5658b1.css.map",
-    "main.192015c2.js.map": "/kegel/static/js/main.192015c2.js.map",
+    "main.66a4d6fd.css.map": "/kegel/static/css/main.66a4d6fd.css.map",
+    "main.3dc63a1b.js.map": "/kegel/static/js/main.3dc63a1b.js.map",
     "787.a3c9e72b.chunk.js.map": "/kegel/static/js/787.a3c9e72b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa5658b1.css",
-    "static/js/main.192015c2.js"
+    "static/css/main.66a4d6fd.css",
+    "static/js/main.3dc63a1b.js"
   ]
 }
