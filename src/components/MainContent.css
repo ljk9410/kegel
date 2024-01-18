@@ -7,6 +7,9 @@
   .video {
     width: 1080px;
   }
+  .video-mobile {
+    width: 375px;
+  }
   .madeBy {
     position: absolute;
     bottom: 32px;
