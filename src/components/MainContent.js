@@ -9,9 +9,10 @@ const MainContent = () => {
     <div className="container">
       <video
         className={isMobileView ? "video-mobile" : "video"}
-        autoPlay
-        muted
-        loop
+        autoPlay={true}
+        muted={true}
+        loop={true}
+        playsInline={true}
       >
         <source
           src={require("../assets/videos/kegel_sticky.mp4")}
