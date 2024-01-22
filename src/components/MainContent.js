@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import "./MainContent.css";
 import useIsMobileView from "../hooks/useIsMobileView";
 import kegelVideo from "../assets/videos/kegel_sticky.mp4";
@@ -6,17 +6,12 @@ import kegelVideo from "../assets/videos/kegel_sticky.mp4";
 const MainContent = () => {
   const isMobileView = useIsMobileView();
 
-  useEffect(() => {
-    const video = document.getElementById("video");
-    video.play();
-  });
-
   return (
     <div className="container">
       <video
         id={"video"}
         className={isMobileView ? "video-mobile" : "video"}
-        // autoPlay={true}
+        autoPlay={true}
         muted={true}
         loop={true}
         playsInline={true}
