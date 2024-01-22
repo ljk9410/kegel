@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import "./MainContent.css";
 import useIsMobileView from "../hooks/useIsMobileView";
+import kegelVideo from "../assets/videos/kegel_sticky.mp4";
 
 const MainContent = () => {
   const isMobileView = useIsMobileView();
@@ -20,7 +21,7 @@ const MainContent = () => {
         loop={true}
         playsInline={true}
         controls={true}
-        src={require("../assets/videos/kegel_sticky.mp4")}
+        src={kegelVideo.src}
         type="video/mp4"
       />
       <a className="madeBy" href={"https://planfit.sng.link/Al6s7/b4fm/wf79"}>
