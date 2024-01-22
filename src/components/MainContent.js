@@ -14,12 +14,9 @@ const MainContent = () => {
         loop={true}
         playsInline={true}
         controls={true}
-      >
-        <source
-          src={require("../assets/videos/kegel_sticky.mp4")}
-          type="video/mp4"
-        />
-      </video>
+        src={require("../assets/videos/kegel_sticky.mp4")}
+        type="video/mp4"
+      />
       <a className="madeBy" href={"https://planfit.sng.link/Al6s7/b4fm/wf79"}>
         made by
       </a>
