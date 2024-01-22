@@ -21,7 +21,7 @@ const MainContent = () => {
         loop={true}
         playsInline={true}
         controls={true}
-        src={kegelVideo.src}
+        src={kegelVideo}
         type="video/mp4"
       />
       <a className="madeBy" href={"https://planfit.sng.link/Al6s7/b4fm/wf79"}>
