@@ -9,6 +9,7 @@
   }
   .video-mobile {
     width: 375px;
+    background-color: tomato;
   }
   .madeBy {
     position: absolute;

@@ -13,6 +13,7 @@ const MainContent = () => {
         muted={true}
         loop={true}
         playsInline={true}
+        controls={true}
       >
         <source
           src={require("../assets/videos/kegel_sticky.mp4")}
